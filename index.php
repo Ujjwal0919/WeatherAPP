@@ -68,7 +68,7 @@ function displayWeather($weatherData) {
 </head>
 <body>
     <header>
-        <h1>Top 50 Cities Weather (Sorted by Temperature)</h1>
+        <h1>Top 50 Cities Weather (Sorted by Temperature of Cities)</h1>
     </header>
     <main id="weather-container">
         <?php displayWeather($weatherData); ?>
